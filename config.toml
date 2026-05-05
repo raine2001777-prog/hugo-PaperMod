@@ -1,6 +1,6 @@
-baseURL = "https://guagua.vercel.app/"
+baseURL = "https://hugo-paper-mod-ncgp.vercel.app/"
 languageCode = "en-us"
-title = "Raine Zhao"
+title = "七千里路云和月"
 theme = "PaperMod"
 
 [params]
@@ -19,10 +19,10 @@ theme = "PaperMod"
 
   [params.profileMode]
     enabled = true
-    title = "Raine Zhao"
-    subtitle = "PhD Candidate in Media & Communication | Quietly thinking & building."
+    title = "Raine"
+    subtitle = "Media & Communication Researcher"
     imageUrl = ""
     buttons = [
-      { name = "About", url = "/about/" },
+      { name = "About", url = "#" },
       { name = "Email", url = "mailto:raine.zhao7@outlook.com" }
     ]
