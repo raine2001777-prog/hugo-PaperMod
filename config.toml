@@ -15,12 +15,10 @@ theme = "PaperMod"
   [params.tokens]
     main = "#1f1f1f"
     link = "#444444"
-    hover = "#1f1f1f"
 
   [params.profileMode]
     enabled = true
     title = "Raine"
     subtitle = "Media & Communication Researcher"
     imageUrl = ""
-    buttons = [] [params.profileMode]
-    ]
+    buttons = []
