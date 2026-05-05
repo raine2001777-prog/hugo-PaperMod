@@ -1,4 +1,4 @@
-baseURL = "https://raine.guagua7/"
+baseURL = "https://guagua.vercel.app/"
 languageCode = "en-us"
 title = "Raine Zhao"
 theme = "PaperMod"
@@ -20,7 +20,7 @@ theme = "PaperMod"
   [params.profileMode]
     enabled = true
     title = "Raine Zhao"
-    subtitle = "Quietly thinking & building."
+    subtitle = "PhD Candidate in Media & Communication | Quietly thinking & building."
     imageUrl = ""
     buttons = [
       { name = "About", url = "/about/" },
