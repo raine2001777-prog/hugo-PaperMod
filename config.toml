@@ -22,7 +22,5 @@ theme = "PaperMod"
     title = "Raine"
     subtitle = "Media & Communication Researcher"
     imageUrl = ""
-    buttons = [
-      { name = "About", url = "#" },
-      { name = "Email", url = "mailto:raine.zhao7@outlook.com" }
+    buttons = [] [params.profileMode]
     ]
