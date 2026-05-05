@@ -1,0 +1,29 @@
+baseURL = "https://Raine.vercel.app/"
+languageCode = "en-us"
+title = "Your Name"
+theme = "PaperMod"
+
+[params]
+  homeMode = "profile"
+  defaultTheme = "light"
+  disableThemeToggle = true
+  ShowReadingTime = false
+  ShowPostNavLinks = false
+  ShowToc = false
+  hideFooter = false
+
+  [params.tokens]
+    main = "#1f1f1f"
+    link = "#444444"
+    hover = "#1f1f1f"
+
+  [params.profileMode]
+    enabled = true
+    title = "Your Name"
+    subtitle = "PhD Candidate in Media & Communication | Building things, one line at a time."
+    imageUrl = ""
+    buttons = [
+      { name = "About", url = "/about/" },
+      { name = "Research", url = "/research/" },
+      { name = "Email", url = "mailto:raine.zhao7@outlook.com" }
+    ]
