@@ -1,6 +1,6 @@
-baseURL = "https://Raine.vercel.app/"
+baseURL = "https://raine.guagua7/"
 languageCode = "en-us"
-title = "Your Name"
+title = "Raine Zhao"
 theme = "PaperMod"
 
 [params]
@@ -19,11 +19,10 @@ theme = "PaperMod"
 
   [params.profileMode]
     enabled = true
-    title = "Your Name"
-    subtitle = "PhD Candidate in Media & Communication | Building things, one line at a time."
+    title = "Raine Zhao"
+    subtitle = "Quietly thinking & building."
     imageUrl = ""
     buttons = [
       { name = "About", url = "/about/" },
-      { name = "Research", url = "/research/" },
       { name = "Email", url = "mailto:raine.zhao7@outlook.com" }
     ]
