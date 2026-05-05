@@ -1,6 +1,6 @@
 baseURL = "https://hugo-paper-mod-ncgp.vercel.app/"
 languageCode = "en-us"
-title = ""
+title = 七千里路云和月
 theme = "PaperMod"
 
 [params]
