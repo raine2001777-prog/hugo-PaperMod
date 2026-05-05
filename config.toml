@@ -1,6 +1,6 @@
 baseURL = "https://hugo-paper-mod-ncgp.vercel.app/"
 languageCode = "en-us"
-title =
+title = []
 theme = "PaperMod"
 
 [params]
